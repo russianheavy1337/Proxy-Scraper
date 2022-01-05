@@ -1,0 +1,7 @@
+C:\Users\realr\source\repos\Proxy Scraper\Proxy Scraper\bin\Debug\Proxy Scraper.exe.config
+C:\Users\realr\source\repos\Proxy Scraper\Proxy Scraper\bin\Debug\Proxy Scraper.exe
+C:\Users\realr\source\repos\Proxy Scraper\Proxy Scraper\bin\Debug\Proxy Scraper.pdb
+C:\Users\realr\source\repos\Proxy Scraper\Proxy Scraper\obj\Debug\Proxy Scraper.csprojAssemblyReference.cache
+C:\Users\realr\source\repos\Proxy Scraper\Proxy Scraper\obj\Debug\Proxy Scraper.csproj.CoreCompileInputs.cache
+C:\Users\realr\source\repos\Proxy Scraper\Proxy Scraper\obj\Debug\Proxy Scraper.exe
+C:\Users\realr\source\repos\Proxy Scraper\Proxy Scraper\obj\Debug\Proxy Scraper.pdb
