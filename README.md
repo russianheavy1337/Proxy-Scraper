@@ -2,4 +2,4 @@
 A fully fledged proxy scraper made in C# with options to change the protocol, region and ms/timeout.
 
 # Why?
-The reason I made this is because I was frequently visiting proxyscrape.com and I thought why don't I make my own sorta version of it.
+The reason I made this is because I was frequently visiting proxyscrape.com and I thought why don't I make my own sorta version of it, also apologies if the code is bad I made this in like 10 minutes.
