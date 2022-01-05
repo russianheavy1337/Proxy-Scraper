@@ -1,4 +1,4 @@
-# Proxy-Scraper
+![Fullscreen](https://raw.githubusercontent.com/russianheavy1337/Proxy-Scraper/main/pslogo.png)
 A fully fledged proxy scraper made in c# with options to change the protocol, region and ms/timeout.
 
 # Why?
